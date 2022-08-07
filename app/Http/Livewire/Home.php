@@ -8,7 +8,7 @@ use Livewire\Component;
 class Home extends Component
 {
     public $username = "";
-    public $profile  = [];
+    public $profile;
 
     public function render()
     {
