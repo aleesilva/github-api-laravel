@@ -18,7 +18,6 @@ class Home extends Component
 
     public function search()
     {
-        $this->profile = Http::get('https://api.github.com/users/' . $this->username)->json();
-        return $this->profile;
+        return $this->profile = Http::get('https://api.github.com/users/' . $this->username)->json();
     }
 }
