@@ -7,7 +7,7 @@
                 required>
 
             <button
-                class="text-white block text-lg mt-5 mb-5 my-5 mx-5 w-full p-2.5 bg-blue-400 rounded-lg">Search</button>
+                class="text-white block text-lg mt-5 mb-5 my-5 mx-5 w-full p-2.5 bg-purple-700 rounded-lg">Search</button>
         </form>
 
     </div>
